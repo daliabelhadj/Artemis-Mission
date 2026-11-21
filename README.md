@@ -29,6 +29,8 @@ Artemis mission is a 2D game developed with Unity, featuring animated NPC dialog
 - NPC dialogue system with text animation
 - Lives (hearts), timer and score displayed on screen
 - Final score screen with a Play Again option
+  <img width="723" height="386" alt="image" src="https://github.com/user-attachments/assets/f8c52a53-c33a-4a53-812f-eca02a92ab19" />
+
 
 ## Built with : 
 
