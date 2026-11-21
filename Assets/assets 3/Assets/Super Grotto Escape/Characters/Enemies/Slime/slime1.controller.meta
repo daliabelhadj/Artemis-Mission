@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4da6afa7501e0924389394eab2f382fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 238393
+  packageName: Super Grotto Escape Pack
+  packageVersion: 1.0
+  assetPath: Assets/Super Grotto Escape/Characters/Enemies/Slime/slime1.controller
+  uploadId: 545561

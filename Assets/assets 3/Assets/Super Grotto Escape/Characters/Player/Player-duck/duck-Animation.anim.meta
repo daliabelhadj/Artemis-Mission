@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb871b8cd5eda20409375f0e5d9b39d2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 238393
+  packageName: Super Grotto Escape Pack
+  packageVersion: 1.0
+  assetPath: Assets/Super Grotto Escape/Characters/Player/Player-duck/duck-Animation.anim
+  uploadId: 545561

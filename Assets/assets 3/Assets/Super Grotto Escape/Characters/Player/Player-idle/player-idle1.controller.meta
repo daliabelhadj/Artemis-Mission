@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da0020c25cafb3a48ad1734723b82a18
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 238393
+  packageName: Super Grotto Escape Pack
+  packageVersion: 1.0
+  assetPath: Assets/Super Grotto Escape/Characters/Player/Player-idle/player-idle1.controller
+  uploadId: 545561
