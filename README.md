@@ -8,7 +8,7 @@ Artemis mission is a 2D game developed with Unity, featuring animated NPC dialog
 
 ## Gameplay
 
-- Travel through **Planet 1, Planet 2 and finally the Moon**.
+- Travel through **Planet 1, Planet 2 and finally the Moon!**.
 - Run, jump on platforms and collect coins.
 - Find a gun mid-level, collect bullets and shoot enemies.
 - Meet an alien guide who appears in each level and tells the story of the planet.
